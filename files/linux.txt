@@ -1,0 +1,51 @@
+pour password : passwd
+
+machine info : hostname and uname -a 
+
+Quels sont les utilisateurs connectés : WHO AND FOR DETAILS WE USE W
+
+Quel jour sommes-nous : date 
+
+Pour envoyer un message à tous les utilisateurs connectés à la machine, vous pouvez utiliser la commande wall (abréviation de write all).
+
+Communiquer avec votre voisin à l‟aide des commandes : write et mail. Consulter(mail) et
+répondre aux mails(mail -r votreadresse@votredomaine.com 2
+).  write voisin    
+
+{Les fichiers /etc/passwd, /etc/group, /etc/hosts et /etc/httpd/conf/httpd.conf sont des fichiers de configuration couramment utilisés sur les systèmes Linux pour stocker des informations sur les utilisateurs, les groupes, les hôtes et les configurations de serveur 
+
+Les permissions appliquées au fichier /etc/passwd sont :
+
+rw-r--r-- pour l'utilisateur propriétaire du fichier (généralement l'utilisateur root)
+r--r--r-- pour le groupe propriétaire du fichier (généralement le groupe root)
+r--r--r-- pour tous les autres utilisateurs
+Ces permissions permettent au propriétaire du fichier (l'utilisateur root) de lire et modifier le contenu du fichier, tandis que tous les autres utilisateurs ont seulement la permission de lecture.
+
+Pour créer un fichier nommé file1, vous pouvez utiliser la commande:    touch file name
+
+Pour créer un dossier nommé doss1, vous pouvez utiliser :         la commande mkdir
+
+La commande umask permet de spécifier les permissions par défaut pour les nouveaux fichiers et répertoires qui seront créés par l'utilisateur courant.
+
+
+ mkdir crée le répertoire "Unix" dans votre répertoire de connexion. cd vous place dans le répertoire "Unix".
+ la commande pwd, elle affichera le chemin absolu du répertoire "Unix" actuel
+
+Il y a deux solutions pour revenir au répertoire de base : cd /   or cd
+
+
+utilisateur : i,uname (le nom de sys d'exploi) ,  uname -a uname -o (cat/etc/issue )
+    gestionne des dossier et fichier  cat touch mkdir rn(-i, -r -f ) rmdir cp cd vi nano chmod , chown ...
+
+
+
+
+
+
+
+
+
+
+
+
+

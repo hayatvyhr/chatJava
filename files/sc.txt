@@ -1,0 +1,26 @@
+ 7 minutes agoLocal time: 14 Aug 2023, 2:14
+
+WE HAVE YOUR BACK
+
+For added safety and your protection, keep payments and communications within Fiverr. Learn more
+
+A
+
+Kaleem
+13 Aug 2023, 20:27
+
+
+I want one database with 6 Tables with 6 page views same data tables. table views UI I have already only fetch data.
+
+sales orders data will be sort from inbound receiving report table.
+this is a little tricky
+sales order data will be sorted from the inbound receiving report table.
+
+In database need six tables
+1. Inbound Receiving Reports 
+2. Sales Orders  10
+3. Sales Return  cost price  
+4. Expenses +data column 4
+5. Sales Return Received Cost 8
+6 Sales Price 
+All six tables need in front view which one do I have UI
